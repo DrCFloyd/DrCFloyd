@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: CV and Resume
-  link: /cv.html
+  link: /cv.md
 - name: Blog
   link: /blog.html

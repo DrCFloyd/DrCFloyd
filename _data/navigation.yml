@@ -2,9 +2,9 @@
   link: /
 - name: Credentials
   link: /credentials.html
-      - title: CV
-        url: /cv.html
-      - title: Resume
+      - name: CV
+        link: /cv.html
+      - name: Resume
         link: /resume.html
 - name: Portfolio
   link: /portfolio.html

@@ -2,7 +2,6 @@
   link: /
 - name: Credentials
   url: /credentials.html
-   subnav:
       - title: CV
         url: /cv.html
       - title: Resume

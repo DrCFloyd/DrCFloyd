@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Credentials
-subfolderitems:
+  subfolderitems:
       - page: CV
         url: /cv.html
       - page: Resume

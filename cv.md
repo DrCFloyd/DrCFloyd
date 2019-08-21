@@ -15,7 +15,7 @@ Fields: Victorian Novel, Disability Studies, Digital Humanities, Print Culture a
 **B.A. in English, summa cum laude, Eastern New Mexico University, May 2011**
 	Minor in Koine Greek
 	Minor in Anthropology
-  ***
+  
 ## Publications
 ### Peer Reviewed Articles
 “‘Always the same unrememberable revelation’: Thoreau’s Telegraph Harp, the Development of an Immanent Romantic Secularism, and Golden Age Children’s Literature.” Nineteenth-Century Literature, vol. 74, no. 1, June 2019, pp. 30-53.
@@ -44,7 +44,7 @@ Fields: Victorian Novel, Disability Studies, Digital Humanities, Print Culture a
 ### Articles Under Review
 
 “‘The merest mechanical labour’: Narrative Prosthesis, the Digitized Archive, and Disability in the Harry Ransom Center’s Lewis Carroll (Charles Lutwidge Dodgson) Photography Collection” (under review, Archive Journal, 21 pp.)
-*** 
+
 ## Selected Fellowships and Awards
 
 North American Victorian Studies Association (NAVSA) Travel Grant, 2018 
@@ -72,7 +72,7 @@ Charles Davis Award for Outstanding Graduate Student Presentation at the RMMLA C
 Inducted into Phi Kappa Phi Honor Society, 2013
 
 Graduate Fellowship for Academic Excellence, Eastern New Mexico University, 2011-2012
-***
+
 ## Employment and Experience
 
 Associate Director of Learning Technologies and Digital Humanities,
@@ -98,7 +98,7 @@ Eastern New Mexico University, Portales, NM			2011-2013
 
 Editor, El Portal Literary Journal, 
 Eastern New Mexico University, Portales, NM			2010, 2012
-***
+
 ## Conferences
 “Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper.” North American Studies Association (NAVSA), St. Petersburg, FL, October 2018.
 
@@ -115,7 +115,7 @@ Eastern New Mexico University, Portales, NM			2010, 2012
 “Lost Girl” and “The Circulation of Social Energy”: Mediating the Past, (Re)Constructing the Present, and (Re)Imagining the Future in Steampunk and Neo-Victorian Television.” Southwest Popular/American Culture Association (SWPACA), Albuquerque, NM, February 2014
 
 “The Sphinx Plays the Provider: Interrogating Masculinity and Ideal Identity in The Female Barber Detective and The Golden Slipper.” Annual Rocky Mountain Modern Language Association (RMMLA), Vancouver, WA, October 2013
-***
+
 ## Invited Presentations, Panels, and Roundtables 
 
 “Podcasting as Public Outreach.” Nineteenth Century Public Outreach Panel. University of Washington Eighteenth & Nineteenth Century Graduate Research Cluster, Seattle, WA, May 2018 
@@ -127,10 +127,10 @@ Research and Teaching Panel. Prospective Student Weekend, University of Oregon, 
 “Braddon’s ‘Waiting,’ Poetic Aesthetics, and Disability Studies.” Grad Talk presentation for the University of Oregon English Graduate Organization, Eugene, OR, May 2016
 
 “Valuing the Quiet Instructor.” University of Oregon Composition Conference, Eugene, OR, September 2015
-***
+
 ## Guest Lectures
 Genre and Crime in Lady Audley’s Secret.” Distance Guest Lecture for Dr. Carol Erwin’s Graduate Course “British Authors/Genres/Themes: The ‘Feminine’ Criminal,” Eastern New Mexico University, Portales, NM, October 2015
-***
+
 ## Workshops Led 
 
 Mandala Informational Sessions for UVA Librarians, 2019
@@ -148,7 +148,7 @@ University of Oregon Frankenreads, Organizer and Leader, an international celebr
 Archetypes & Anarchy, Project Leader and Producer, a public humanities podcast researched and recorded by my Spring 2018 Introduction to Fiction students at the University of Oregon. https://blogs.uoregon.edu/archetypesanarchy/
 
 MEBAread, Organizer and Leader, inaugural Mary Elizabeth Braddon Association digital read-along (Twitter and WordPress), https://maryelizabethbraddon.com/braddon-read-along-announcement-and-instructions-for-participation/
-***
+
 ## Teaching 
 
 ### University of Oregon
@@ -183,7 +183,7 @@ President, Alpha Xi Psi (Sigma Tau Delta) English Honor Society, 2009-2011
 
 ### Victorian Popular Fiction Association (VPFA)
 Media Officer, 2018-Present
-***
+
 ## Professional Training
 
 "Inclusive Design," a summer course held at the Digital Pedagogy Lab (University of Mary Washington), 2019

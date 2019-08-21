@@ -5,28 +5,6 @@
 
 !important 
 @font-face {
-  font-family: 'Didot';
-  font-weight: 400;
-  font-style: normal;
-  
+    font-family: headerFont;
+    src: url(./praxis/Font Project/Web Font Kit/newhampshire-regular-webfont.ttf);
 }
-
-@font-face {
-  font-family: 'Didot';
-  font-weight: 700;
-  font-style: normal;
-  
-}
-
-@font-face {
-  font-family: 'Didot';
-  font-weight: 400;
-  font-style: italic;
-  
-}
-
-@font-face {
-  font-family: 'Didot';
-  font-weight: 700;
-  font-style: italic;
-  

@@ -12,7 +12,7 @@
     <![endif]-->
   </head>
   <body>
-    {% include nav.html nav=page.nav %}
+   {% include navigation.html nav=page.nav %}
  
     <div class="wrapper">
       <header>
@@ -37,7 +37,6 @@
 
       </section>
       <footer>
-        {% include navigation.html nav=page.nav %}
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}

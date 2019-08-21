@@ -1,10 +1,11 @@
 - name: Home
   link: /
 - name: Credentials
-  subfolderitems:
-      - page: CV
+  url: credentials.html
+   subnav:
+      - name: CV
         url: /cv.html
-      - page: Resume
+      - name: Resume
         url: /resume.html
 - name: Portfolio
   link: /portfolio.html

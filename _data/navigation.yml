@@ -4,10 +4,10 @@ nav:
 - name: Credentials
   link: /credentials.html
   subnav:
-     - name: CV
-        link: /cv.html
-      - name: Resume
-        link: /resume.html
+  - name: CV
+    link: /cv.html
+  - name: Resume
+    link: /resume.html
 - name: Portfolio
   link: /portfolio.html
 - name: Blog

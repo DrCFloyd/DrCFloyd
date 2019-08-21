@@ -1,6 +1,6 @@
 <ul>
   {% for item in site.data.navigation %}
-    <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
 
     {% if item.subnav %}
       {% include nav.html nav=item.subnav %}

@@ -3,7 +3,7 @@ nav:
   link: /
 - name: Credentials
   link: /credentials.html
-     subnav:
+  subnav:
      - name: CV
         link: /cv.html
       - name: Resume

@@ -2,5 +2,7 @@
   link: /
 - name: CV
   link: /cv.html
+- name: Portfolio
+  link: /portfolio.html
 - name: Blog
   link: /blog.html

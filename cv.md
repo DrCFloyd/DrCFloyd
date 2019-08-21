@@ -4,7 +4,7 @@ title: CV
 ---
 # Curriculum Vitae
 
-##Education
+## Education
 **Ph.D. in English, University of Oregon, June 2019**
 Fields: Victorian Novel, Disability Studies, Digital Humanities, Print Culture and Periodicals, Archival Theory, Gender and Sexuality, Book History
 	Breadth Fields: Romantic Novel and Adaptation Theory
@@ -15,19 +15,19 @@ Fields: Victorian Novel, Disability Studies, Digital Humanities, Print Culture a
 **B.A. in English, summa cum laude, Eastern New Mexico University, May 2011**
 	Minor in Koine Greek
 	Minor in Anthropology
-  
-##Publications
-###Peer Reviewed Articles
+  ***
+## Publications
+### Peer Reviewed Articles
 “‘Always the same unrememberable revelation’: Thoreau’s Telegraph Harp, the Development of an Immanent Romantic Secularism, and Golden Age Children’s Literature.” Nineteenth-Century Literature, vol. 74, no. 1, June 2019, pp. 30-53.
 
-###Forthcoming Peer Reviewed Articles
+### Forthcoming Peer Reviewed Articles
 “‘Take it when tendered’: M.E. Braddon’s Thou Art the Man (1894) and The Weekly Telegraph’s Media Model of Disability.” Victorian Review (forthcoming 2019)
 
 “‘Always the same unrememberable revelation’: Thoreau’s Telegraph Harp, the Development of an Immanent Romantic Secularism, and Golden Age Children’s Literature.” Nineteenth-Century Literature (forthcoming)
 
 “‘Her who never spoke’: Oral/Aural Disability, the Female Voice, and the Deafened Moment in M.E. Braddon’s ‘Waiting.’” Women’s Writing (forthcoming)
 
-###Fiction
+### Fiction
 “Carly Ann and the Scatomancer.” Speculative Masculinities, Galli Books, (forthcoming)
 
 “A Postmodern Oracle.” Fireside Fiction Magazine, 2018
@@ -36,16 +36,16 @@ Fields: Victorian Novel, Disability Studies, Digital Humanities, Print Culture a
 
 “The Sphinx and the Signet.” Tales of the Talisman, 10.4, 2015 
 
-###Blog Articles
+### Blog Articles
 “Blogging Academia.” Guest Post for University of Oregon Digital Humanities Blog, 2016
 
 “Braddon’s ‘Waiting,’ Poetic Aesthetics, and Disability Studies.” Guest Post for the Mary Elizabeth Braddon Association Blog, 2015
 
-###Articles Under Review
+### Articles Under Review
 
 “‘The merest mechanical labour’: Narrative Prosthesis, the Digitized Archive, and Disability in the Harry Ransom Center’s Lewis Carroll (Charles Lutwidge Dodgson) Photography Collection” (under review, Archive Journal, 21 pp.)
-
-##Selected Fellowships and Awards
+*** 
+## Selected Fellowships and Awards
 
 North American Victorian Studies Association (NAVSA) Travel Grant, 2018 
 
@@ -72,8 +72,8 @@ Charles Davis Award for Outstanding Graduate Student Presentation at the RMMLA C
 Inducted into Phi Kappa Phi Honor Society, 2013
 
 Graduate Fellowship for Academic Excellence, Eastern New Mexico University, 2011-2012
-
-##Employment and Experience
+***
+## Employment and Experience
 
 Associate Director of Learning Technologies and Digital Humanities,
 Contemplative Sciences Center, University of Virginia, 
@@ -98,8 +98,8 @@ Eastern New Mexico University, Portales, NM			2011-2013
 
 Editor, El Portal Literary Journal, 
 Eastern New Mexico University, Portales, NM			2010, 2012
-
-##Conferences
+***
+## Conferences
 “Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper.” North American Studies Association (NAVSA), St. Petersburg, FL, October 2018.
 
  “‘Take it when tendered’: Medicine, Material Texts, and the Creation of (Dis)Ability in the Nineteenth-Century Newspaper.” The Body and the Page in Victorian Culture: An International Conference, Research Society for Victorian Periodicals (RSVP) and Victorian Studies Association of Western Canada (VSAWC), Victoria, B.C., July 2018
@@ -115,8 +115,8 @@ Eastern New Mexico University, Portales, NM			2010, 2012
 “Lost Girl” and “The Circulation of Social Energy”: Mediating the Past, (Re)Constructing the Present, and (Re)Imagining the Future in Steampunk and Neo-Victorian Television.” Southwest Popular/American Culture Association (SWPACA), Albuquerque, NM, February 2014
 
 “The Sphinx Plays the Provider: Interrogating Masculinity and Ideal Identity in The Female Barber Detective and The Golden Slipper.” Annual Rocky Mountain Modern Language Association (RMMLA), Vancouver, WA, October 2013
-
-##Invited Presentations, Panels, and Roundtables 
+***
+## Invited Presentations, Panels, and Roundtables 
 
 “Podcasting as Public Outreach.” Nineteenth Century Public Outreach Panel. University of Washington Eighteenth & Nineteenth Century Graduate Research Cluster, Seattle, WA, May 2018 
 
@@ -127,11 +127,11 @@ Research and Teaching Panel. Prospective Student Weekend, University of Oregon, 
 “Braddon’s ‘Waiting,’ Poetic Aesthetics, and Disability Studies.” Grad Talk presentation for the University of Oregon English Graduate Organization, Eugene, OR, May 2016
 
 “Valuing the Quiet Instructor.” University of Oregon Composition Conference, Eugene, OR, September 2015
-
-##Guest Lectures
+***
+## Guest Lectures
 Genre and Crime in Lady Audley’s Secret.” Distance Guest Lecture for Dr. Carol Erwin’s Graduate Course “British Authors/Genres/Themes: The ‘Feminine’ Criminal,” Eastern New Mexico University, Portales, NM, October 2015
-
-##Workshops Led 
+***
+## Workshops Led 
 
 Mandala Informational Sessions for UVA Librarians, 2019
 
@@ -148,43 +148,43 @@ University of Oregon Frankenreads, Organizer and Leader, an international celebr
 Archetypes & Anarchy, Project Leader and Producer, a public humanities podcast researched and recorded by my Spring 2018 Introduction to Fiction students at the University of Oregon. https://blogs.uoregon.edu/archetypesanarchy/
 
 MEBAread, Organizer and Leader, inaugural Mary Elizabeth Braddon Association digital read-along (Twitter and WordPress), https://maryelizabethbraddon.com/braddon-read-along-announcement-and-instructions-for-participation/
+***
+## Teaching 
 
-##Teaching 
-
-###University of Oregon
+### University of Oregon
 Introduction to Fiction (F 2017, SP 2018); instructor of record
 Introduction to Fiction (W 2017); discussion leader
 College Composition III (SP 2016, SP 2017, W 2018); instructor of record
 College Composition II (SP 2015, SU 2015, F 2015, W 2016); instructor of record
 College Composition I (F 2014, W 2015; F 2016); instructor of record
 
-###Eastern New Mexico University
+### Eastern New Mexico University
 Introduction to Literature (SP 2014; one online section); instructor of record
 Composition and Research (SP 2012, two sections; SP 2013, three sections; F 2013, three sections); instructor of record
 Introduction to Composition (F 2011, F 2012, SP 2014); instructor of record
 
-###Clovis Community College
+### Clovis Community College
 Introduction to Composition (SU 2013, SU 2014); instructor of record
 
-##University and Professional Service
+## University and Professional Service
 
-###University of Virginia
+### University of Virginia
 DH Communications Committee, 2019-
 Teaching with Technology (TWT) Summit Program Committee 2019-
 
-###University of Oregon		
+### University of Oregon		
 Graduate Committee, University of Oregon Department of English, 2017-2018			
 Composition Writing Instructor Mentorship Program, University of Oregon Department of English, 2016
 Leader/Organizer, 19th-Century British Studies Group, University of Oregon Department of English, 2015-present	 
 
-###Eastern New Mexico University
+### Eastern New Mexico University
 Committee Member, Jack Williamson Lectureship Planning Committee, 2011-2014		
 President, Alpha Xi Psi (Sigma Tau Delta) English Honor Society, 2009-2011	
 
-###Victorian Popular Fiction Association (VPFA)
+### Victorian Popular Fiction Association (VPFA)
 Media Officer, 2018-Present
-
-##Professional Training
+***
+## Professional Training
 
 "Inclusive Design," a summer course held at the Digital Pedagogy Lab (University of Mary Washington), 2019
  

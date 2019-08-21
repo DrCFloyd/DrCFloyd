@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Credentials
-  url: /credentials.html
+  link: /credentials.html
       - title: CV
         url: /cv.html
       - title: Resume

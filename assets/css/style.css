@@ -3,8 +3,3 @@
 
 @import "{{ site.theme }}";
 
-!important 
-@font-face {
-    font-family: headerFont;
-    src: url(./praxis/Font Project/Web Font Kit/newhampshire-regular-webfont.ttf);
-}

@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 nav ul, footer ul {
-    font-family:'Times', 'Palatino', 'Serif';
+    font-family:'Didot', 'Palatino', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,10 +21,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Times', 'Palatino', 'Serif';
+    font-family:'Didot', 'Palatino', 'Serif';
 }
 p {
     font-size: 1.5em;
+    font-family:'Didot', 'Palatino', 'Serif';
     line-height: 1.4em;
     color: #333;
 }
@@ -35,6 +36,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
+    font-family:'Didot', 'Palatino', 'Serif';
     font-size: 1.5em;
 }
 

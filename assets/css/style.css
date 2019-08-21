@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+site.title {font-family:'Didot', 'Palatino', 'Serif';)
 nav ul, footer ul {
     font-family:'Didot', 'Palatino', 'Serif';
     padding: 0px;

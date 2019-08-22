@@ -12,10 +12,20 @@
     <![endif]-->
   </head>
   <body>
+    <ul>
+      <li><a href="https://drcfloyd.github.io/"> Home </a></li>
+      <li>Credentials
+ <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+  <li style="margin-left:2em"> <a href="https://drcfloyd.github.io/cv.html"> CV </a></</li>
+  <li style="margin-left:2em; padding-bottom: 0;"><a href="https://drcfloyd.github.io/resume.html"> Resume </a></li>
+ </ol>
+ </li>
+      <li><a href="https://drcfloyd.github.io/portfolio.html"> Portfolio </a></li>
+      <li><a href="https://drcfloyd.github.io/blog.html"> Blog </a></li>
  
     <div class="wrapper">
       <header>
-        {% include nav.html nav=page.nav %}
+   
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />

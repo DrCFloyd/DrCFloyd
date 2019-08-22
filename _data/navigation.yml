@@ -1,14 +1,13 @@
-nav:
-- name: Home
-  link: /
-- name: Credentials
-  link: /credentials.html
-  subnav:
-  - name: CV
-    link: /cv.html
-  - name: Resume
-    link: /resume.html
-- name: Portfolio
-  link: /portfolio.html
-- name: Blog
-  link: /blog.html
+- title: Home
+  url: /
+- title: Credentials
+  url: /credentials.html
+  sublinks:
+  - title: CV
+    url: /cv.html
+  - title: Resume
+    url: /resume.html
+- title: Portfolio
+  url: /portfolio.html
+- title: Blog
+  url: /blog.html
